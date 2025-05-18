@@ -8,10 +8,6 @@ Learn Python GUI Development: Demonstrates skills in Python and Tkinter for buil
 Showcase Growth: Evolved into PassFort, a CLI tool with advanced features, reflecting my journey in software development.
 Impress Recruiters: A portfolio project highlighting programming, UI design, and cybersecurity awareness.
 
-![image](https://github.com/user-attachments/assets/b7c1717a-ffaa-4000-8e4f-b8d6149a7d9d)
-
-
-
 Note: For a modern, CLI-based experience with enhanced password strength, check out PassFort!
 
 📸 Showcase: Real-Time Functionality
@@ -21,7 +17,9 @@ The GUI generating a password.
 Customizing password length or characters.
 PassFort’s CLI output for comparison.
 
-Example Screenshots (placeholders, replace with yours):
+Example Screenshot :
+![image](https://github.com/user-attachments/assets/b7c1717a-ffaa-4000-8e4f-b8d6149a7d9d)
+
 
 🛠️ Features
 
