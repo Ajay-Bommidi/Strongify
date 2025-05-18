@@ -70,11 +70,7 @@ Example:
 ```sh
 python3 strongify.py
 ```
-# GUI opens, select length=12, include symbols
-# Output: kX9#mP2$jL5n
-
-
-For the CLI experience, try PassFort:
+# For the CLI experience, try PassFort:
 
 https://github.com/Ajay-Bommidi/PassFort.git
 
