@@ -56,11 +56,6 @@ Run Strongify’s GUI:
 python3 strongify.py
 ```
 
-
-Enter desired password length and character preferences.
-Click “Generate” to create a secure password.
-Copy the password for use.
-
 Example:
 ```sh
 python3 strongify.py
