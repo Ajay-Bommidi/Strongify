@@ -71,9 +71,8 @@ https://github.com/Ajay-Bommidi/PassFort.git
 
 🧪 Testing
 
-Test Locally: Run Strongify on your machine and verify password generation.
-Capture Screenshots: Take images of the GUI and share via GitHub issues to enhance this README.
-Compare with PassFort: Test both tools to see the GUI-to-CLI evolution.
+Tested Locally: Run Strongify on your machine and verify password generation.
+Compared with PassFort: Test both tools to see the GUI-to-CLI evolution.
 
 🔒 Security Considerations
 
@@ -84,17 +83,8 @@ Best Practices: Never reuse passwords; use a password manager for storage.
 🤝 Contributing
 Contributions are welcome! To improve Strongify:
 
-Fork the repository.
-Create a branch: git checkout -b feature-name.
-Commit changes: git commit -m "Add feature".
-Push: git push origin feature-name.
-Open a pull request.
 
-Ideas:
 
-Add password strength indicators to the GUI.
-Share screenshots or GIFs of Strongify in action.
-Suggest UI enhancements (e.g., themes).
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
