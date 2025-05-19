@@ -5,7 +5,7 @@ Strongify is a user-friendly, GUI-based password generator built in Python, desi
 Passwords are the first line of defense in cybersecurity. Strongify empowers users to:
 
 Generate Secure Passwords: Creates random, customizable passwords to protect against brute-force attacks.
-Evolved into PassFort, a CLI tool with advanced features, reflecting my journey in software development.
+Evolved into PassFort, a CLI tool with advanced features.
 
 
 Note: For a modern, CLI-based experience with enhanced password strength, check out PassFort!
