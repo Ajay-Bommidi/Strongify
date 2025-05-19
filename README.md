@@ -19,9 +19,8 @@ Example Screenshot :
 🛠️ Features
 
 Graphical Interface: Built with Tkinter for a simple, intuitive experience.
-Customizable Passwords: Adjust length and character sets (letters, numbers, symbols).
 Random Generation: Uses Python’s secrets module for cryptographically secure passwords.
-Educational Value: A beginner-friendly project demonstrating GUI programming and security basics.
+
 
 📋 Prerequisites
 
