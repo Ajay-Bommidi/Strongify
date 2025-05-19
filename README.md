@@ -7,7 +7,7 @@ Passwords are the first line of defense in cybersecurity. Strongify empowers use
 Generate Secure Passwords: Creates random, customizable passwords to protect against brute-force attacks.
 Learn Python GUI Development: Demonstrates skills in Python and Tkinter for building accessible interfaces.
 
-Showcase Growth: Evolved into PassFort, a CLI tool with advanced features, reflecting my journey in software development.
+Evolved into PassFort, a CLI tool with advanced features, reflecting my journey in software development.
 
 
 Note: For a modern, CLI-based experience with enhanced password strength, check out PassFort!
